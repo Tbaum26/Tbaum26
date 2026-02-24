@@ -54,13 +54,13 @@ I’m interested in analytical roles where I can combine **operational expertise
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=TatianaYaquelinBaum&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Tbaum26&show_icons=true&theme=tokyonight&hide_border=true" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TatianaYaquelinBaum&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tbaum26&theme=tokyonight&hide_border=true" 
   />
 </p>
 
